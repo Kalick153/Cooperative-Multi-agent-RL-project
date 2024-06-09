@@ -29,7 +29,7 @@ Also you can read the report with a short overview of the project.
 ### GiFs!!
 
 
-## Sources that helped me and otherall interesting sources 
+## Sources that helped me and otherall interesting materials
 [Open AI Spinning Up](https://spinningup.openai.com/en/latest/index.html)  
 [PettingZoo documentation and tutorials](https://pettingzoo.farama.org/)  
 [PPO algorithm explanation on YouTube](https://www.youtube.com/watch?v=5P7I-xPq8u8)  
