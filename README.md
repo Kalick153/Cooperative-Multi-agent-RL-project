@@ -15,13 +15,12 @@ This project implements a cooperative multi-agent environment where two agents c
 
 ## Environment Description
 
-The environment is a cooperative multi-agent maze where two agents must work together to escape. Key features include:
+The environment is a cooperative multi-agent maze where two agents must work together to escape.
 - Agents start from two different corners of the maze.
 - Agents take turns moving within the grid.
 - Agents must avoid walls and coordinate to open a door.
 - The objective is to escape the maze by stepping on the final cells together.
-
-
+  
 ---
 ## Agent's perfomance
 
