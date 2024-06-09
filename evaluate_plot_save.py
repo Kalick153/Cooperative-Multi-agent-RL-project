@@ -11,6 +11,7 @@ def evaluate_policy_visual(env, ag, delay_between_moves=100):
     Args:
         env: The environment to evaluate.
         ag: The agents to evaluate.
+        delay_between_moves (int, optional): The delay added between moves.
     """
     pygame.init()
 
