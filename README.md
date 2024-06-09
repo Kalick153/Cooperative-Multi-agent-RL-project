@@ -24,7 +24,7 @@ The environment is a cooperative multi-agent maze where two agents must work tog
 ---
 ## Results
 You can see the complete training results in the Jupyter notebook. 
-Also you can read the report with a short overview of the project.  
+Also you can read the [report](AI_models_project_Valiev.pdf) with a short overview of the project.  
 
 ### GiFs!!
 Here you can see how the agents solve the hardes environment in this project. Model name: 'ag_hard_final'.  
