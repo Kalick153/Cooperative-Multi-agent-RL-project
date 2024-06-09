@@ -27,7 +27,9 @@ You can see the complete training results in the Jupyter notebook.
 Also you can read the report with a short overview of the project.  
 
 ### GiFs!!
-![Fast version](fast_gif.gif)
+Fast version  
+![Fast version](fast_gif.gif)  
+Slow version  
 ![Slow version](slow_gif.gif)
 
 
