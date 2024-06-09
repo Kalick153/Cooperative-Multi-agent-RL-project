@@ -26,4 +26,4 @@ The environment is a cooperative multi-agent maze where two agents must work tog
 You can see the complete training results in the Jupyter notebook. 
 Also you can read the report with a short overview of the project.  
 
-## GiFs!!
+### GiFs!!
