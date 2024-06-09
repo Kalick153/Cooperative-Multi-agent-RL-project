@@ -29,4 +29,8 @@ Also you can read the report with a short overview of the project.
 ### GiFs!!
 
 
-## Sources that helped me and interesting sources 
+## Sources that helped me and otherall interesting sources 
+[Open AI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
+[PettingZoo documentation and tutorials](https://pettingzoo.farama.org/)
+[PPO algorithm explanation on YouTube](https://www.youtube.com/watch?v=5P7I-xPq8u8)
+[DQN RL Paper Explained](https://www.youtube.com/watch?v=H1NRNGiS8YU&t=2342s) (Initially I spent a lot of time with DQN, before switching to PPO)
