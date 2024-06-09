@@ -22,6 +22,8 @@ The environment is a cooperative multi-agent maze where two agents must work tog
 - The objective is to escape the maze by stepping on the final cells together.
   
 ---
-## Agent's perfomance
+## Results
+You can see the complete training results in the Jupyter notebook. 
+ALso you can read the report below with a showt overview of the project 
 
 ## GiFs!!
