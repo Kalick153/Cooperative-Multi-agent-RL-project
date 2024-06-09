@@ -34,7 +34,7 @@ Slow version
 ![Slow version](slow_gif.gif)
 
 
-## Sources that helped me and otherall interesting materials
+## Sources that helped me and other interesting materials
 [Open AI Spinning Up](https://spinningup.openai.com/en/latest/index.html)  
 [PettingZoo documentation and tutorials](https://pettingzoo.farama.org/)  
 [PPO algorithm explanation on YouTube](https://www.youtube.com/watch?v=5P7I-xPq8u8)  
