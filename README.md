@@ -38,5 +38,5 @@ Slow version
 [Open AI Spinning Up](https://spinningup.openai.com/en/latest/index.html)  
 [PettingZoo documentation and tutorials](https://pettingzoo.farama.org/)  
 [PPO algorithm explanation on YouTube](https://www.youtube.com/watch?v=5P7I-xPq8u8)  
-[DQN RL Paper Explained](https://www.youtube.com/watch?v=H1NRNGiS8YU&t=2342s) (Initially I spent a lot of time with DQN, before switching to PPO)  
+[DQN RL Paper Explained](https://www.youtube.com/watch?v=H1NRNGiS8YU&t=2342s) (Initially I spent a lot of time with DQN before switching to PPO)  
 [Big research paper on optimal parameters for PPO](https://arxiv.org/abs/2006.05990)
